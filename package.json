@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shicadood406/node-base-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shicadood406/node-base-project/issues"
+  },
+  "homepage": "https://github.com/Shicadood406/node-base-project#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  }
+}
